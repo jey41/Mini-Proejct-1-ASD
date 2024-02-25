@@ -1,0 +1,16 @@
+{
+  "Lemari": {
+    "nama_produk": "Lemari",
+    "deskripsi": "2 pintu dengan gantungan",
+    "harga": 3999999,
+    "stok": 3,
+    "jenis_bahan": "Jati"
+  },
+  "Meja": {
+    "nama_produk": "Meja",
+    "deskripsi": "4 kaki dengan kaca ditengah",
+    "harga": 799999,
+    "stok": 3,
+    "jenis_bahan": "Mahoni"
+  }
+}
