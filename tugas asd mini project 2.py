@@ -217,10 +217,10 @@ while True:
             toko.update_produk(nama_produk, deskripsi, harga, stok, jenis_bahan)
 
         elif pilihan == 4:
+            toko.show_produk()
             print("\n1. Hapus di Awal")
             print("2. Hapus di Akhir")
             print("3. Hapus di Tengah")
-            toko.show_produk()
             pilih_hapus = int(input("[] Masukkan pilihan penghapusan (1-3): "))
             
             if pilih_hapus == 1:
